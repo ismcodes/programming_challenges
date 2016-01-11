@@ -1,0 +1,2 @@
+gem 'tweetstream'
+gem 'redis'
